@@ -1,0 +1,3 @@
+Hot Tamale	Mexican	7
+Hesburger	Burger	1
+random	tasty	20
